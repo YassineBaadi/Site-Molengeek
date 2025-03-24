@@ -22,3 +22,44 @@ header {
     color: white;
     flex-grow: 1; 
 }
+
+
+#btn {
+    background-color: greenyellow;
+    border-radius: 5px;
+    color: white;
+}
+
+#input {
+    border-radius: white 5px;
+    border-color: none;    
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 14px;
+    border: none;
+    }
+
+#imgLogo {
+    width: 140px; 
+    height: 70px;
+    margin-left: 30px;
+    padding-left: 10px;
+    margin-right: 40px;
+}
+
+#test {
+    display: flex; 
+    align-items: center;     
+    padding-right: 150px; 
+    height: 80px; 
+    text-decoration: none;
+    
+}
+
+#oui {
+    text-decoration: none;
+}

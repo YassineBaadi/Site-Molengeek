@@ -152,3 +152,36 @@ nav {
     padding-right: 40px;
     font-weight: normal;
 }
+
+footer {
+    background-color: #000000c9; 
+    color: white;
+    padding-top: 30px ;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+footer .socialNetwork {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    gap: 30px; 
+    margin-bottom: 20px;
+}
+
+
+footer .socialNetwork a {
+    text-decoration: none; 
+    color: white;
+    font-size: 13px;
+}
+
+footer hr {
+    border: none;
+}
+
+#copyright{
+    font-size: 14px;
+    color: grey;
+}
+
